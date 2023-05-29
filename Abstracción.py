@@ -16,3 +16,4 @@ programador=Programador("Luis",1000)
 programador.CalcularBono(1000)
 gerente=Gerente("Tony",1500)
 gerente.CalcularBono(1500)
+#kkkkkkkk
